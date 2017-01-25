@@ -80,7 +80,6 @@ homebrew_cask_apps:
   - fantastical
   - sketch
   - google-drive
-  - adobe-creative-cloud
   - caffeine
 
 # See `geerlingguy.mas` role documentation for usage instructions.
