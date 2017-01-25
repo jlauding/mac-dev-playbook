@@ -72,7 +72,6 @@ homebrew_cask_apps:
   - vlc
   - tunnelblick
   - 1password
-  - textexpander
   - alfred
   - spectacle
   - spotify
